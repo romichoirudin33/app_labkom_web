@@ -1,0 +1,38 @@
+.title-day{
+    color: #efb93f;
+}
+
+thead{
+    text-transform: uppercase;
+    font-family: inherit;
+    font-size: 0.9rem;
+    text-align: center;
+}
+
+tr.class-in{
+    background-color: #16cfc1;
+    color: rgba(255,255,255,.8);
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 0.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+tr.class-out{
+    text-transform: uppercase;    
+    font-size: 0.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.title-loading{
+    width: 100%;
+    background-color: gray;
+    height: auto;
+}
+
+tr.loading{
+    background-color: gray;
+    height: auto;
+}
