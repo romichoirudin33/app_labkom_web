@@ -17,7 +17,7 @@ import NotFoundPage from "./pages/NotFound";
 import Login from "./Content/Auth/Login";
 import HomeMahasiswa from "./Content/Mahasiswa/HomeMahasiswa";
 import Footer from "./components/Footer";
-import PengumumanDetail from "./Content/PengumumanDetail";
+import PengumumanDetail from "./Content/Pengumuman/PengumumanDetail";
 import JadwalToday from "./Content/Jadwal/JadwalToday";
 
 class App extends Component {
